@@ -1,0 +1,3 @@
+[submodule "piped-frontend"]
+	path = piped-frontend
+	url = https://github.com/TeamPiped/Piped
